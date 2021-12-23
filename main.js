@@ -1,9 +1,9 @@
 /* 
 👉 Write your kata here! 
-The unthinkable has happened, Skynet has attacked, and the apocalypse has had an apocalypse. 
-All messages are scrambled and appear to be not only containing many non-letter characters, but are also reverse.
+The unthinkable has happened - Skynet has attacked, and the apocalypse has had an apocalypse. 
+All messages are scrambled and appear to be not only containing many non-letter characters, but are also reversed.
 Earth's last hope is YOU! You must decrypt the top secret messages to HQ, removing all non-letter characters, 
-and reversing them to read correctly. If you don't succeed then all is lost.
+and reversing them to read correctly. If you don't succeed then all is lost...
 
 For example - "e3lp45ma!xe n1a" should become "an example" 
 
